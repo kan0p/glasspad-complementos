@@ -9,6 +9,7 @@ Requiere GlassPad 0.9.1 o posterior. La lista completa de funciones está en la 
 | Complemento | Qué hace |
 |---|---|
 | [Dados](dados/) | Tira dos dados al tocar; un toque largo escribe el total en la ventana con foco. |
+| [Pizarra](https://github.com/kan0p/glasspad-pizarra) | Herramientas para dar clases sobre la pantalla principal: escribir encima de la presentación, un foco que sigue al cursor y los atajos pulsados con su equivalente en Windows. Tiene su propio repo e instalador. |
 
 ## Instalar uno
 
